@@ -1,0 +1,5 @@
+{
+  "port": 8000,
+  "mongoURI": "mongodb+srv://Tilker:25qs80@cluster0.am3fo.mongodb.net/Cluster0?retryWrites=true&w=majority",
+  "jwt": "test-nitrix"
+}
