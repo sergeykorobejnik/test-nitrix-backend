@@ -118,7 +118,7 @@ authRouter.post ('/login',
 
 
         } catch (e) {
-            console.log(e)
+            console.log(e.message)
             res.status(500).json({message: "Unexpected error"})
         }
 
